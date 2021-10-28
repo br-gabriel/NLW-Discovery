@@ -3,7 +3,7 @@ const linksSocialMedia = {
     youtube: 'channel/UC2m6IzINT451X9IsL147Beg',
     facebook: 'profile.php?id=100010710379241',
     instagram: 'gafeitosa_',
-    twitter: ''
+    linkedin: 'in/gabriel-feitosa-3b9029193/'
 }
 
 function changeSocialMediaLinks() {
@@ -32,8 +32,6 @@ function getGithubProfileInfos () {
 getGithubProfileInfos()
 
 
-//Trocar o botão do twitter para o linkedIn e excluir o botão de youtube
 //Adicionar a logo do do while na versão desktop e alterar a apresentação no modo desktop
-//Adicionar o icone da rocketseat
 //Adicionar alguma coisa diferente no crachá (Selo rodando no prop eixo)
 //Adicionar o estado hover nos links
