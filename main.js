@@ -35,3 +35,4 @@ getGithubProfileInfos()
 //Adicionar a logo do do while na versão desktop e alterar a apresentação no modo desktop
 //Adicionar alguma coisa diferente no crachá (Selo rodando no prop eixo)
 //Adicionar o estado hover nos links
+//Alterar o nome do usuário na aba de acordo com o perfil do github

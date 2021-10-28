@@ -86,3 +86,8 @@ ul {
     gap: 0.5rem;
     justify-content: center;
 }
+
+a:hover {
+    opacity: 70%;
+    transition: .3s;
+}
