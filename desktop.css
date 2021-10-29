@@ -1,0 +1,33 @@
+@media (min-width: 426px) {
+    main {
+        background: url(./images/backgrounds/background-desktop.png) no-repeat;
+        width: 358px;
+        height: 540px;
+
+        margin-top: -8.9rem;
+    }
+
+    ul {
+        margin-top: 2em;
+    }
+
+    .container {
+        margin-top: -0.5em;
+    }
+
+    .quebra {
+        margin-top: 1rem;
+        position: relative;
+        margin-bottom: -2em;
+
+        display: block;
+    }
+      
+    .faixa {
+        position: absolute;
+        margin-top: -50rem;
+        z-index: 1;
+
+        display: block;
+    }
+}

@@ -21,9 +21,11 @@ body {
 }
 
 main {
-    background: url(./images/background-mobile.png);
-    width: 375px;
+    background: url(./images/backgrounds/background-mobile.png) no-repeat center/cover;
+    width: 425px;
+    max-width: 425px;
     height: 812px;
+    /*margin-top: 5.5rem;*/
 }
 
 .container {
@@ -33,11 +35,17 @@ main {
     text-align: center;
 
     color: var(--grey);
+
+    margin-top: 10.5em; /*Ajuste da altura dos elementos no mobile*/
+}
+
+.quebra, .faixa {
+    display: none;
 }
 
 .avatar {
     width: 10rem;
-    margin: 11.5rem auto 0;
+    margin: 4.5rem auto 0;
     position: relative;
 }
 

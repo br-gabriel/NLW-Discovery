@@ -33,5 +33,8 @@ function getGithubProfileInfos () {
 getGithubProfileInfos()
 
 
-//Adicionar a logo do do while na versão desktop e alterar a apresentação no modo desktop
+//Adicionar a logo do do while na versão desktop e alterar a apresentação no modo desktop (adicionar os gradientes e a div que 'segura o cartão')
 //Adicionar alguma coisa diferente no crachá (Selo rodando no prop eixo)
+//Testar o encaixe da faixa em várias telas diferentes
+//Talvez trocar a apresentação do modo tablet para o modo mobile
+//Ajustar os media queries
