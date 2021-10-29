@@ -33,8 +33,17 @@ function getGithubProfileInfos () {
 getGithubProfileInfos()
 
 
-//Adicionar a logo do do while na versão desktop e alterar a apresentação no modo desktop (adicionar os gradientes e a div que 'segura o cartão')
-//Adicionar alguma coisa diferente no crachá (Selo rodando no prop eixo)
+//Adições
+//Adicionar a logo do do while na versão desktop - com clamp (.png)
+//Animação no selo da rocketseat
+
+
+//Testes
 //Testar o encaixe da faixa em várias telas diferentes
-//Talvez trocar a apresentação do modo tablet para o modo mobile
-//Ajustar os media queries
+//:hover nos links
+//title não está atualizando
+//Ajustar os media queries - Altura do conteudo dentro do cracha na versão desktop e quando for mobile mudar o modo de visualização
+
+//Ajustes
+//Alterar a apresentação no modo desktop (adicionar os gradientes e a div que 'segura o cartão')
+//Ajustar o tamanho da versão mobile (ficou grande no meu celular) 100 vh 100 vw

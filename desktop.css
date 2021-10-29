@@ -12,13 +12,14 @@
     }
 
     .container {
-        margin-top: -0.5em;
+        margin-top: 0em;
     }
 
     .quebra {
         margin-top: 1rem;
         position: relative;
-        margin-bottom: -2em;
+        margin-top: .6em;
+        margin-bottom: -1.7em;
 
         display: block;
     }
