@@ -33,14 +33,8 @@ function getGithubProfileInfos () {
 getGithubProfileInfos()
 
 
-//Adições
+//Ajustes
 //Adicionar a logo do do while na versão desktop - com clamp (.png)
 //Animação no selo da rocketseat
-
-
-//Testes
+//Tamanho da versão mobile
 //Testar o encaixe da faixa e dos gradientes em várias telas
-
-//Ajustes
-//Alterar a apresentação no modo desktop (adicionar os gradientes)
-//Ajustar o tamanho da versão mobile (ficou grande no meu celular)

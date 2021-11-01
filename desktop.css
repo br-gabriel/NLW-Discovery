@@ -4,6 +4,8 @@
         width: 358px;
         height: 540px;
 
+        min-height: 812px;
+
         margin-top: 6.8rem;
     }
 
@@ -42,6 +44,7 @@
         margin-top: 0;
         top: -5rem;
         left: -50rem;
+        display: block;
     }
 
     .yellow {
@@ -49,5 +52,6 @@
         margin-top: 0;
         top: -5rem;
         right: -50rem;
+        display: block;
     }
 }
