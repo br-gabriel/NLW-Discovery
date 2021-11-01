@@ -31,4 +31,22 @@
 
         display: block;
     }
+
+    .gradientes {
+        position: relative;
+    }
+
+    .pink {
+        position: absolute;
+        margin-top: 0;
+        top: -5rem;
+        left: -50rem;
+    }
+
+    .yellow {
+        position: absolute;
+        margin-top: 0;
+        top: -5rem;
+        right: -50rem;
+    }
 }

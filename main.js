@@ -39,11 +39,8 @@ getGithubProfileInfos()
 
 
 //Testes
-//Testar o encaixe da faixa em várias telas diferentes
-//:hover nos links
-//title não está atualizando
-//Ajustar os media queries - Altura do conteudo dentro do cracha na versão desktop e quando for mobile mudar o modo de visualização
+//Testar o encaixe da faixa e dos gradientes em várias telas
 
 //Ajustes
-//Alterar a apresentação no modo desktop (adicionar os gradientes e a div que 'segura o cartão')
+//Alterar a apresentação no modo desktop (adicionar os gradientes)
 //Ajustar o tamanho da versão mobile (ficou grande no meu celular) 100 vh 100 vw

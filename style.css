@@ -22,9 +22,9 @@ body {
 
 main {
     background: url(./images/backgrounds/background-mobile.png) no-repeat center/cover;
-    width: 425px;
-    max-width: 425px;
-    height: 812px;
+    width: 100vw;
+    min-height: 812px;
+    height: 100vh;
     /*margin-top: 5.5rem;*/
 }
 
@@ -41,6 +41,10 @@ main {
 
 .quebra, .faixa {
     display: none;
+}
+
+.gradientes {
+    position: none;
 }
 
 .avatar {
