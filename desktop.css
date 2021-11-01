@@ -4,7 +4,7 @@
         width: 358px;
         height: 540px;
 
-        margin-top: -8.9rem;
+        margin-top: 6.8rem;
     }
 
     ul {
@@ -34,6 +34,7 @@
 
     .gradientes {
         position: relative;
+        display: block;
     }
 
     .pink {

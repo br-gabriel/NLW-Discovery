@@ -43,4 +43,4 @@ getGithubProfileInfos()
 
 //Ajustes
 //Alterar a apresentação no modo desktop (adicionar os gradientes)
-//Ajustar o tamanho da versão mobile (ficou grande no meu celular) 100 vh 100 vw
+//Ajustar o tamanho da versão mobile (ficou grande no meu celular)

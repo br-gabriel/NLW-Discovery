@@ -43,8 +43,8 @@ main {
     display: none;
 }
 
-.gradientes {
-    position: none;
+.gradientes, .yellow, .pink {
+    display: none;
 }
 
 .avatar {
