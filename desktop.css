@@ -17,6 +17,29 @@
         margin-top: 0em;
     }
 
+    .cracha {
+        margin: 20rem auto;
+        top: 0.6rem;
+        position: relative;
+
+        display: inline;
+    }
+
+    .cracha span .faixa {
+        position: absolute;
+        z-index: 1;
+
+        left: 0.5rem;
+        top: -9.35rem;
+
+        display: inline;
+    }
+
+    .cracha > img {
+        display: inline;
+    }
+
+    /*
     .quebra {
         margin-top: 1rem;
         position: relative;
@@ -32,7 +55,7 @@
         z-index: 1;
 
         display: block;
-    }
+    }*/
 
     .gradientes {
         position: relative;

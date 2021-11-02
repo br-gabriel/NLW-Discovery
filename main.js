@@ -36,5 +36,4 @@ getGithubProfileInfos()
 //Ajustes
 //Adicionar a logo do do while na versão desktop - com clamp (.png)
 //Animação no selo da rocketseat
-//Tamanho da versão mobile
-//Testar o encaixe da faixa e dos gradientes em várias telas
+//Overflow hidden, ajustar o encaixe da faixa nas demais telas
