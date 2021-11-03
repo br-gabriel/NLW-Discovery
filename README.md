@@ -1,5 +1,6 @@
 # NLW-Discovery (Out/2021)
-![Screenshot da versão desktop](https://raw.githubusercontent.com/br-gabriel/NLW-Discovery/master/images/screenshots/print1.png "Versão Desktop") ![Screenshot da versão mobile](https://raw.githubusercontent.com/br-gabriel/NLW-Discovery/master/images/screenshots/print2.png "Versão mobile")
+![Screenshot da versão desktop](https://raw.githubusercontent.com/br-gabriel/NLW-Discovery/master/images/screenshots/print1.png "Versão Desktop" {width=403px height=222.54px}) 
+![Screenshot da versão mobile](https://raw.githubusercontent.com/br-gabriel/NLW-Discovery/master/images/screenshots/print2.png "Versão mobile" {width=403px height=222.54px})
 
 
 ## Sobre
