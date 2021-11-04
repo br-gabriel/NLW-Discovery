@@ -1,6 +1,6 @@
 # NLW-Discovery (Out/2021)
-<img src="https://raw.githubusercontent.com/br-gabriel/NLW-Discovery/master/images/screenshots/print1.png" alt="Versão desktop" width="600"/>
-<img src="https://raw.githubusercontent.com/br-gabriel/NLW-Discovery/master/images/screenshots/print2.png" alt="Versão mobile" width="200"/>
+<img src="https://raw.githubusercontent.com/br-gabriel/NLW-Discovery/master/images/screenshots/print1.png" alt="Versão desktop" width="400"/>
+<img src="https://raw.githubusercontent.com/br-gabriel/NLW-Discovery/master/images/screenshots/print2.png" alt="Versão mobile" width="400"/>
 
 ## Sobre
 Crachá virtual criado durante o evento NLW Heat, oferecido pela Rocketseat, utilizando:
