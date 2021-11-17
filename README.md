@@ -13,4 +13,4 @@ As redes sociais são salvas no objeto 'linksSocialMedia' e, a partir do usuári
 
 Para alterar as redes sociais e os dados fornecidos pela API, basta alterar os valores dentro do objeto 'linksSocialMedia', seguindo o formato estabelecido.
 
-[Link da página]](https://br-gabriel.github.io/NLW-Discovery/)
+[Link da página](https://br-gabriel.github.io/NLW-Discovery/)
