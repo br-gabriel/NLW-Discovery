@@ -17,6 +17,10 @@
         margin-top: 0em;
     }
 
+    .avatar {
+        margin: 3.5rem auto 0;
+    }
+
     .cracha {
         top: 0.6rem;
         position: relative;
