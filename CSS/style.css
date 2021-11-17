@@ -23,7 +23,7 @@ body {
 }
 
 main {
-    background: url(./images/backgrounds/background-mobile.png) no-repeat center/cover;
+    background: url(../images/backgrounds/background-mobile.png) no-repeat center/cover;
     width: 100vw;
     height: 100vh;
 }
