@@ -7,6 +7,9 @@
         min-height: 812px;
 
         margin-top: 6.8rem;
+
+        position: absolute;
+        top: 0px;
     }
 
     ul {
@@ -50,7 +53,7 @@
     .pink {
         position: absolute;
         margin-top: 0;
-        top: -5rem;
+        top: -35em;
         left: -50rem;
         display: block;
     }
@@ -58,7 +61,7 @@
     .yellow {
         position: absolute;
         margin-top: 0;
-        top: -5rem;
+        top: -35em;
         right: -50rem;
         display: block;
     }
